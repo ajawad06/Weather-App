@@ -1,6 +1,6 @@
 # 🌤️ Weather App
 
-A simple and responsive weather application built with **HTML**, **CSS**, and **JavaScript** that fetches real-time weather data using the [VisualCrossing API](https://www.visualcrossing.com/weather-api/).
+A simple weather application built with **HTML**, **CSS**, and **JavaScript** that fetches real-time weather data using the [VisualCrossing API](https://www.visualcrossing.com/weather-api/).
 
 ---
 
