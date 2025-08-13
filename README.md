@@ -4,7 +4,7 @@ A simple weather application built with **HTML**, **CSS**, and **JavaScript** th
 
 ## 🚀 Features
 - 🌍 Search weather by city name.
-- 📡 Real-time weather updates using OpenWeatherMap API.
+- 📡 Real-time weather updates using VisualCrossing API.
 - 🌡️ Shows temperature, weather description, icon and few other details.
 
 ## 🛠️ Tech Stack
