@@ -1,5 +1,5 @@
 {
-  "name": "to-do-list-app",
+  "name": "weather-app",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ajawad06/To-Do-List-App.git"
+    "url": "git+https://github.com/ajawad06/Weather-App.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ajawad06/To-Do-List-App/issues"
+    "url": "https://github.com/ajawad06/Weather-App/issues"
   },
-  "homepage": "https://github.com/ajawad06/To-Do-List-App#readme",
+  "homepage": "https://github.com/ajawad06/Weather-App#readme",
   "devDependencies": {
     "css-loader": "^7.1.2",
     "html-webpack-plugin": "^5.6.3",

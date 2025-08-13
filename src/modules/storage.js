@@ -1,11 +1,11 @@
-const STORAGE_KEY = "todoAppData";
+const STORAGE_KEY = "weatherAppData";
 
-// Save all projects and their tasks 
+// Save all projects and their tasks
 export function saveToLocalStorage(projects) {
   localStorage.setItem(STORAGE_KEY, JSON.stringify(projects));
 }
 
-// Load and parse projects 
+// Load and parse projects
 export function loadFromLocalStorage() {
   const data = localStorage.getItem(STORAGE_KEY);
   if (!data) return [];
